@@ -1,0 +1,17 @@
+{
+  "showreel": {
+    "id": "showreel-propuesta",
+    "title": "Showreel · Luciano Salazar",
+    "format": "Audiovisual",
+    "category": "Audiovisual",
+    "year": 2026,
+    "duration": 83.077333,
+    "image": "assets/showreel-real.webp",
+    "alt": "Fotograma de Luciano Salazar durante el cierre de Santa Lucía, incluido en el showreel",
+    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/showreel-propuesta.mp4",
+    "synopsis": "Propuesta de montaje con el cierre completo de Santa Lucía y el reel íntegro Providencia–Recoleta. Conserva el contexto de las intervenciones.",
+    "credits": "Fragmentos de obras colectivas de Taller de Análisis e Integración de Periodismo. Santa Lucía: equipo completo por documentar. Reel: Marín, Salazar, Matamala, Quintanilla y Chocano. Propuesta de selección preparada para este portafolio.",
+    "role": "Presentaciones ante cámara. No se atribuye a Luciano la autoría individual de las obras originales.",
+    "approved": true
+  }
+}

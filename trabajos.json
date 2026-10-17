@@ -11,8 +11,6 @@
     "role": "Coautor acreditado; tareas de datos, diseño y programación sin desglose confirmado",
     "synopsis": "Reportaje multimedia sobre desigualdad entre Providencia y Recoleta. La firma pública acredita a tres autores.",
     "category": "Periodismo de datos",
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
     "source_url": "https://tdinoticias.github.io/web/reportajeprovidenciarecoleta.html"
   },
   {
@@ -27,8 +25,6 @@
     "role": "Coautor del reportaje; reparto individual de tareas no confirmado",
     "synopsis": "Un reportaje colectivo sobre el sistema de trasplantes, sustentado en datos y testimonios. Acceso a la publicación completa y sus visualizaciones originales.",
     "category": "Investigación",
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
     "source_url": "https://tdinoticias.github.io/web/reportaje.html"
   },
   {
@@ -41,12 +37,43 @@
     "participation": "Individual",
     "credits": "Luciano Salazar",
     "role": "Autor del texto firmado",
-    "synopsis": "Trabajo de Bajo la Lupa sobre política. Ficha de autor y contexto; texto completo en revisión.",
+    "synopsis": "Este viernes se cumplió un año desde el escándalo que sacudió a La Moneda, luego de que se hiciera pública la denuncia de una trabajadora del Ministerio del Interior, quien acusó una violación perpetrada por el entonces subsecretario Manuel Monsalve.",
     "category": "Bajo la Lupa",
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
-    "media_restricted": true,
-    "public_note": "El texto completo se conserva en el archivo local. Su reproducción pública espera revisión editorial y autorización de difusión."
+    "paragraphs": [
+      " Caso Monsalve: Un Año de Controversia y Justicia Pendiente",
+      "Este viernes se cumplió un año desde el escándalo que sacudió a La Moneda, luego de que se hiciera pública la denuncia de una trabajadora del Ministerio del Interior, quien acusó una violación perpetrada por el entonces subsecretario Manuel Monsalve.",
+      "Escrito por: Luciano Salazar",
+      "Según la Fiscalía Norte, los sucesos ocurrieron durante la tarde del 22 de septiembre a las 18 Hrs aproximadamente, cuando la autoridad de gobierno Manuel Monsalve se reunió con la víctima para reunirse en el restaurante peruano Ají Seco Místico, ubicado en la comuna de Santiago. En ese local se hizo consumo alimentos, destacando fuertemente la toma de alcohol, haciendo hincapié en el pisco sour peruano que vendía el local. Tras esto, horas después la víctima fue trasladada en un taxi por el exsubsecretario, mientras ella estaba afectada por la alta ingesta de bebida alcohólica. El exsubsecretario la llevó al hotel que frecuentemente visitaba, una habitación del hotel Panamericano; según el ministerio público, la violación habría acontecido en la madrugada del 23 de septiembre; luego en la mañana ocurrió el segundo episodio, el abuso sexual.",
+      "Tras 22 días de aquel fatídico episodio, un 14 de octubre se realizó la denuncia.",
+      "El Inicio del Escándalo: La Denuncia que Sacudió a La Moneda",
+      "El 15 de octubre de 2024, un día después de que se interpusiera la denuncia, la PDI notificó a la entonces ministra de Interior Carolina Tohá sobre la acusación en contra de Monsalve. Esa misma noche, según fuentes de La Moneda, el presidente Gabriel Boric, se reunió de forma urgente con Tohá para discutir este enorme problema que estaba aconteciendo al interior del gobierno y que aún no salía a luz pública.",
+      "El 16 de octubre, Monsalve viajó a la región del Biobío para aparentemente informar a su familia sobre la denuncia en su contra. Este viaje fue realizado en un auto personal, pero su retorno fue en un avión institucional de Carabineros.",
+      "Dos días después de aquella reunión entre las máximas autoridades de gobierno, un 17 de octubre, se hizo pública la denuncia de violación por el diario La segunda. Horas después, Manuel Monsalve, presentó su renuncia a la Subsecretaría de Interior. Con este suceso empezó uno de los mayores escándalos de todo el mandato de Gabriel Boric, que contrajo una serie de hechos y errores que conmocionaron a la opinión pública.",
+      "Cámaras y Encubrimiento: El intento de borrar la evidencia",
+      "Según reportaje realizado por CIPER, el 24 de octubre del año pasado, relevó que tras 18 días después de lo ocurrido el día 10 de octubre, Monsalve habría convocado una reunión con la jefa de Inteligencia policial, Cristina Vilches, al interior del palacio La Moneda, asegurando sentirse amenazado por no recordar lo sucedido entre la noche del 22 y la mañana del 23 de septiembre y que tras esto podía estar en riesgo la seguridad pública, porque hasta entonces él desempeñaba su labor como ministro de Interior.",
+      "Con los datos que Monsalve puso sobre la mesa, bajo la premisa de que el subsecretario del Interior señalaba que podía estar en riesgo, la brigada de inteligencia de la PDI se desplegó hacia el Hotel Panamericano. Allí se realizaron varias copias de las imágenes de las cámaras de seguridad que se encontraban bajo el dominio del establecimiento. ",
+      "De acuerdo con grabaciones difundidas por Mega, dos policías de la PDI se dirigieron al restaurant peruano “El ají seco místico”, para solicitar todos los registros audiovisuales de la cena entre la exautoridad y la denunciante.",
+      "De acuerdo con grabaciones difundidas por Mega, dos detectives de la policía civil fueron también al restaurante peruano “El Ají Seco Místico”, de calle Mac Iver, para solicitar registros audiovisuales de la cena entre Monsalve y la denunciante. Según la investigación realizada por CIPER, ambos policías pertenecían a la brigada de inteligencia de la PDI.  Según una entrevista realizada por Chilevisión a su administrador José Aravena, los registros de las cámaras de seguridad de ese día desaparecieron del recinto.",
+      "Después de esto, se descubrió que Monsalve habría infringido la Ley de Inteligencia, específicamente el artículo 43 de la Ley N° 19.974, que establece una pena privativa de libertad de entre cinco años y un día hasta 20 años para los funcionarios de los organismos públicos de inteligencia que utilicen la información obtenida o elaborada por dichos organismos en beneficio propio o de terceros, en detrimento de una persona, autoridad u organismo, o para ejercer presiones o amenazas.",
+      "Las pruebas en su contra",
+      "Según pudo conocer La Tercera, los equipos de investigación examinaron las grabaciones de 172 cámaras de seguridad en distintos puntos públicos y privados de Santiago Centro. Esto les permitió confirmar que Monsalve y la denunciante salieron del local comercial poco antes de las 23:00 horas del 22 de septiembre y llegaron al hotel ubicado en Rosa Rodríguez 1314 solo unos minutos después.",
+      "Según fuentes con acceso a las imágenes, estas muestran al entonces subsecretario del Interior caminando de forma mucho más normal en comparación con la denunciante, quien parecería tener movimientos descoordinados.",
+      "Bajo ese contexto, según las imágenes analizadas por los investigadores y la policía, se pudo observar que mientras estaban afuera del restaurante, Monsalve besó sin consentimiento a la víctima, debido a que ella trató de resistirse y alejarse. Este hecho se documentó en un informe de más de 150 páginas preparado por la PDI.",
+      "Además, los expertos reconstruyeron el trayecto del taxi que tomaron el exsubsecretario y la víctima, con ella en el asiento del copiloto. Se determinó que, debido al alto nivel de alcohol en su sangre, la mujer vomitó dentro del vehículo. Las cámaras de seguridad captaron cómo el taxi se detuvo en varias ocasiones para que ella pudiera continuar vomitando, mientras la víctima intentaba alejarse del auto. Durante todo esto, Monsalve permaneció en el asiento trasero, vestido con ropa negra y usando lentes y un sombrero.",
+      "Después de revisar 172 cámaras en el centro de Santiago, se obtuvo evidencia de cómo Monsalve, al bajar del vehículo, ayudó a la víctima a llegar hasta el hotel donde se alojaba.",
+      "En el hotel, los empleados informaron que la víctima estaba en un estado mucho más grave debido al alcohol que Monsalve. Además, testigos afirmaron que el exsubsecretario pidió que le cambiaran la tarjeta de la habitación, ya que la que le habían dado no servía.",
+      "Por otra parte, de acuerdo con la investigación que llevaba la Fiscalía, una cámara de seguridad captó a Monsalve y la víctima saliendo del lugar y pasando varias horas en un parque que se encontraba cerca del restaurante donde sucedió el suceso, estos antecedentes han sido claves para la construcción del contexto anterior y posterior de la denuncia.",
+      "Según los detalles proporcionados por la fiscalía, aproximadamente diez horas antes de encontrarse con la denunciante en el restaurante Ají Seco, Monsalve realizó cerca de 30 búsquedas en un sitio web especializado en acompañantes. Además, también exploró menús de \"restaurantes de lujo y románticos\". Entre las opciones que consideró, figuraba un local ubicado dentro de un hotel boutique, sobre el cual incluso consultó en línea información acerca de los ascensores que dan acceso a las habitaciones.",
+      "Finalmente, el exsubsecretario optó por el restaurante Ají Seco, un establecimiento de comida peruana situado a seis cuadras del Hotel Panamericano, lugar al que se dirigieron para almorzar. En su declaración formal ante el Ministerio Público, la funcionaria indicó que durante la comida el trato entre ambos fue cordial, aunque señaló que la situación cambió conforme avanzaba la tarde.",
+      "El Juicio de Manuel Monsalve: Un Año de Espera y Tensión Judicial",
+      "Manuel Monsalve, exsubsecretario del Interior de Chile, estuvo en prisión preventiva durante seis meses tras ser formalizado por los delitos de violación y abuso sexual en noviembre de 2024. Fue detenido el 14 de noviembre de 2024 y recluido en la cárcel Capitán Yáber de Santiago. Durante ese tiempo, se le mantuvo en un régimen de aislamiento, característico de ese centro penitenciario, destinado a personas con cargos públicos o delitos de alta connotación.",
+      "El 19 de mayo de 2025, la Corte Suprema de Chile acogió el recurso de amparo interpuesto por su defensa y revocó la prisión preventiva, sustituyéndola por arresto domiciliario total. Monsalve cumple esta nueva medida cautelar en su departamento en Viña del Mar, con prohibición de acercarse a la víctima y arraigo nacional.",
+      "¿En qué se encuentra actualmente Manuel Monsalve?",
+      "Hasta el 17 de octubre de 2025, el caso de Manuel Monsalve, exsubsecretario del Interior de Chile, sigue en la fase de investigación. Monsalve fue formalizado el 15 de octubre de 2024, enfrentando cargos de violación y abuso sexual contra una funcionaria de su ministerio. La Fiscalía ha presentado pruebas, incluyendo imágenes de cámaras de seguridad y registros de comunicaciones, para respaldar las acusaciones. Tras su formalización, Monsalve fue inicialmente detenido y luego trasladado a la cárcel Capitán Yáber en Santiago. Sin embargo, en mayo de 2025, la Corte Suprema modificó su medida cautelar, otorgándole arresto domiciliario total en Viña del Mar, tras acoger un recurso de amparo presentado por su defensa.",
+      "El 7 de octubre de 2025, el Séptimo Juzgado de Garantía de Santiago amplió en 30 días el plazo de investigación del caso a solicitud del Ministerio Público, debido a diligencias solicitadas por la defensa. A pesar de este avance, aún no se ha fijado una fecha para el juicio oral, ya que la investigación continúa en curso. En el sistema judicial chileno, la fase de investigación puede extenderse hasta dos años desde la formalización de los cargos, lo que permite que el Ministerio Público recabe pruebas adicionales antes de presentar los cargos formales y solicitar el juicio. Los próximos pasos dependerán de la conclusión de esta fase y de las decisiones que tome la fiscalía en función de las evidencias reunidas.",
+      "Este caso ha tenido un impacto profundo en la política y la sociedad chilena. No solo por la gravedad de los delitos que se le imputan a una figura de alto rango en el gobierno, sino también por ser un hito histórico en el que una autoridad enfrenta acusaciones de un delito sexual de esta magnitud. La decisión de la Corte Suprema de revocar la prisión preventiva y otorgar arresto domiciliario a Manuel Monsalve ha generado diversas reacciones y ha puesto en evidencia la tensión entre el sistema judicial y las expectativas sociales sobre la justicia en casos de esta naturaleza.",
+      "A medida que la investigación avanza, con la Fiscalía preparando el caso para juicio oral, el país sigue observando de cerca cómo se desarrollan los eventos. La respuesta del gobierno, la postura de la defensa y las repercusiones políticas y sociales de este proceso seguirán siendo temas de debate, mientras que la situación de Monsalve continuará siendo un asunto que marcará la agenda pública en Chile por algún tiempo más."
+    ]
   },
   {
     "id": "servel",
@@ -58,12 +85,53 @@
     "participation": "Individual",
     "credits": "Luciano Salazar",
     "role": "Autor del texto firmado",
-    "synopsis": "Trabajo de Bajo la Lupa sobre política. Ficha de autor y contexto; texto completo en revisión.",
+    "synopsis": "En este Bajo la lupa abordaremos el doble estándar que atraviesa a la clase política chilena. Revelaremos cómo, a pesar de las sanciones récord impuestas por el SERVEL (más de $770 millones en un año), un grupo de 31 parlamentarios de distintas bancadas sigue evadiendo la Ley Electoral. La investigación se centrará en el uso ilícito de propaganda anticipada y las millonarias consecuencias judiciales que persisten, desde la multa de 161 UTM a Kast hasta la crisis de financiamiento en partidos como el PDG.",
     "category": "Bajo la Lupa",
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
-    "media_restricted": true,
-    "public_note": "El texto completo se conserva en el archivo local. Su reproducción pública espera revisión editorial y autorización de difusión."
+    "paragraphs": [
+      "Bajo la lupa: de la multa millonaria a Kast (161 UTM) al colapso financiero del PDG ($628 millones perdidos): las pruebas del SERVEL que exponen el incumplimiento sistémico de la ley electoral",
+      "En este Bajo la lupa abordaremos el doble estándar que atraviesa a la clase política chilena. Revelaremos cómo, a pesar de las sanciones récord impuestas por el SERVEL (más de $770 millones en un año), un grupo de 31 parlamentarios de distintas bancadas sigue evadiendo la Ley Electoral. La investigación se centrará en el uso ilícito de propaganda anticipada y las millonarias consecuencias judiciales que persisten, desde la multa de 161 UTM a Kast hasta la crisis de financiamiento en partidos como el PDG.",
+      "Escrito por: Luciano Salazar",
+      "Pagar publicidad en redes sociales meses antes del plazo legal, escudándose en la \"difusión de ideas\". Esta es la táctica que 31 parlamentarios, desde el Partido Comunista hasta la UDI y Republicanos, utilizaron para sacar ventaja electoral y evadir la Ley 19.884. La investigación expone este doble estándar que el SERVEL intenta frenar con multas millonarias, un patrón de conducta que se repite sistémicamente y que pone en jaque la probidad de la política chilena.",
+      "En Chile, existe la ley 19.884, la cual establece una serie de normas acerca de la transparencia, límites y control de gasto electoral. Esta normativa tiene como finalidad regular los aportes públicos y privados que reciben los políticos a través del reembolso de gastos electorales. Esto es fiscalizado por el SERVEL (Servicio Electoral de Chile), quien establece límites máximos de aportes que pueden recibir los candidatos a cargos políticos. Este margen varía según el tipo de candidatura. Para candidaturas presidenciales, el máximo permitido es de 40 UF; para los parlamentarios, es de 20 UF y alcaldes 15 UF.",
+      "La campaña anticipada y la defensa de ideas: 31 parlamentarios bajo el foco",
+      "Según una investigación realizada por CIPER, en septiembre del año 2025 se reveló que por lo menos 31 parlamentarios pagaron propaganda en redes sociales para promover su candidatura, antes del inicio de la campaña electoral. Pese a que el periodo oficial comenzó el 17 de septiembre varios legisladores, incumplieron esta ley electoral debido a que comenzaron a financiar su campaña política desde hace cinco meses. Por otra parte, los aspirantes a senadores y diputados que infringieron esta normativa usaban sus cuentas personales para realizar una contracampaña, debido a que atacaban a su contendor. Según el SERVEL, esto no es un delito, pero el problema está en que lo realizaron antes del periodo oficial de la campaña. ",
+      "Entre los partidos que más destacan en la infracción de esta normativa están el Partido Comunista, Republicano y la UDI (Unión Demócrata Independiente), entre los legisladores reconocidos se encontraban Catalina del Real (PRCh), Juan Antonio Coloma (UDI), Boris Barrera (PC) y Daniel Manouchehri (PS).",
+      "Según parlamentarios involucrados, afirmaron que esto no quebranta la ley electoral, puesto que usaron fondos personales y no del congreso y que no hicieron un llamado a votar por ellos ni atacar a su contendor, sino que solo estaban exponiendo sus ideas.",
+      "Los legisladores se excusaron con la norma N° 18.700, sobre votaciones populares y escrutinios, que define la propaganda como “todo evento o manifestación pública y la publicidad radial, escrita, en imágenes, en soportes audiovisuales, por redes sociales, cuando exista una contratación y un respectivo pago, u otros medios análogos, siempre que promueva a una o más personas o partidos políticos constituidos o en formación, con fines electorales”. ",
+      "Este mismo artículo establece que la difusión de ideas o información sobre actos políticos de personas naturales o actividades de autoridades no corresponde a propaganda. Precisamente, este es el argumento que utilizaron los parlamentarios para justificar su postura, puesto que a su juicio solo estaban defendiendo ideas.",
+      "Aun así, existe una investigación pendiente por parte del SERVEL que de comprobarse su infracción, podrían llegar a recibir una multa de Rango General: entre 20 y 200 UTM. ",
+      "Imagen referencial de parlamentarios involucrados.",
+      "El precedente Kast: multa de $11 Millones y la táctica de negar las infracciones",
+      "Este hecho no solo viene de estas elecciones, sino que concurre hace varios años. En el año 2024, José Antonio Kast (actual candidato presidencial), en conjunto con parlamentarios de derecha, presentaron un recurso de apelación al SERVEL, luego de que este los oficiara por incumplir la ley de propaganda electoral en las elecciones del año 2021.",
+      "En el caso del candidato republicano, arrendó espacios privados para realizar eventos para su campaña política, antes del periodo oficial de campaña, además de subir material descargable a redes sociales para promover su candidatura presidencial. En un principio, el SERVEL comentó que el candidato recibiría 63 sanciones por quebrantar esta ley. Ante esto, en febrero del 2024, Kast presentó un reclamo junto al abogado Jorge Barrera, donde finalmente no se logró acreditar una vulneración significativa a la ley de propaganda electoral.",
+      "Pese a que el SERVEL anuló 41 multas, se consideró 22 infracciones, aplicando una multa de 161 UTM, aproximadamente 10 millones de pesos; cabe destacar que este dinero se va a los fondos municipales de las comunas afectadas. Principalmente, esta penalización se debe por haber adquirido espacios privados para hacer campaña política en las comunas de Iquique, Melipilla, Estación Central, Paine, Pirque, La Reina y Vitacura, sin autorización del propietario del inmueble y realizándolo fuera del plazo legal establecido.",
+      "Según el SERVEL, notificó en cada caso al equipo de Kast a través de correo electrónico, pero este no dio contestación a los avisos de retirar la propaganda. Entregando pruebas contundentes como fotografías, correos electrónicos y contratos recopilados. Pese a esto, el líder del Partido Republicano desconoce esta denuncia y señala que ninguno de ellos usó jamás estos inmuebles y solicitó que todas las personas que tuvieran antecedentes de estos eventos lo denunciaran al organismo correspondiente.",
+      "La apelación transversal: de Macaya a Longton, la estrategia para evadir la sanción",
+      "En el caso de parlamentarios, se encuentra el presidente de la UDI, Javier Macaya, a quien el SERVEL lo notificó por haber usado propaganda en espacios públicos no autorizados, sancionándolo con un total de 59 UTM, unos 3,8 millones de pesos. Ante esto, Javier Macaya se defendió y dijo que era una estrategia política de sus adversarios para atacarlo, debido a que según su declaración él Jamás usó propaganda en lugares no autorizados y que debieron haber sido sus contendores para desprestigiarlo.",
+      "Macaya presentó un recurso a la comuna de Requinua y San Fernando para anular esta multa; el tres de abril del 2024, el recurso fue declarado admisible.",
+      "Otros parlamentarios que presentaron un oficiamiento al SERVEL para anular su multa fueron Sebastián Keitel (EVOPOLÍ), sancionado con 81 UTM, por retirar propaganda antes del plazo establecido por ley; Andrés Longton (RN), con 44 UTM, por hacer propaganda política antes del plazo correspondiente; y Guillermo Ramírez (UDI) con 49 UTM, por no informar al SERVEL la adquisición de espacios privados. Todos estos actuales senadores y diputados apelaron para anular su multa, pero ninguno lo consiguió, debiendo pagar esta alta suma de dinero que va en directo beneficio de los municipios afectados.",
+      "SERVEL en cifras: más de $770 millones en sanciones y el rechazo de fondos para la mujer",
+      "Durante el año 2024, el Servel cursó sanciones por más de 770 millones de pesos. Esto se dio en el marco de la cuenta pública del organismo, que estuvo dirigida por la presidenta de la entidad, Pamela Figueroa, junto a la presencia del ministro del Interior, Álvaro Elizalde, en representación del Presidente de la República; el ministro de Justicia, Jaime Gajardo; y los consejeros del servicio, David Huina; Andrés Tagle y Alfredo Joignant; el director nacional, Raúl García; representantes de instituciones del Estado; Fuerzas Armadas y Carabineros; organizaciones colaboradoras, subdirectores del servicio, jefaturas, funcionarios y funcionarias de la institución.",
+      "Con el fin de mostrar transparencia en el proceso de elecciones, que es lo que constantemente nos caracteriza como país, la presidenta del SERVEL reveló una cifra realmente alarmante en el 2024, el Servicio Electoral aplicó sanciones por un total de 9.110,87 UTM, 1.000 UF y $105.681.061, montos que con una conversión a esta fecha suman más de 770 millones de pesos ($770.305.935). ",
+      "Por otra parte, informó que el Organismo rechazó la rendición de $183 millones del 10% del financiamiento público que los partidos políticos deben destinar al fomento de la participación política de la mujer, tras constatar que no fueron utilizados para dicho fin. De esta forma, el SERVEL busca entregar garantías de transparencia y probidad hacia la ciudadanía, algo que lo caracteriza como institución.",
+      "El historial de irregularidades: desde Democracia Viva al colapso financiero del PDG",
+      "Esta no es primera vez que esta institución cursa sanciones por altas sumas de dinero. Para el plebiscito del año 2022, el Servicio Electoral ofició a los intervinientes el término del Procedimiento Sancionador en contra de la Corporación Aprueba por Chile y la cuestionada Fundación Democracia Viva. Como resultado de esta resolución, se impusieron sanciones de 30 UTM ($1.979.010) a cada organización por la omisión del registro como comando y una multa adicional de 1.509,6 UTM ($99.581.643) a la Corporación Aprueba por Chile por exceder el límite de gasto electoral durante la campaña electoral del Plebiscito Constitucional del 2022.",
+      "Uno de los partidos más cuestionados de nuestro país vive una fuerte crisis. El Partido de la Gente, dirigido por el actual candidato presidencial Franco Parisi, en 2025, según un artículo realizado por CIPER, perdió 628 millones de pesos luego de que el SERVEL rechazara continuamente la petición de recursos del partido.",
+      "En el año 2021, con las elecciones presidenciales, el PDG (Partido de la Gente) se transformó en la colectividad con más afiliados de nuestro país, con un total de 48.273 miembros inscritos. Además de posicionarse como la tercera fuerza con más escaños en el parlamento, con 6 escaños en la cámara de diputados y 22 consejeros regionales.",
+      "Luego de tres años, se reveló que estuvo un año completo sin financiamiento estatal, por una serie de errores que cometió el partido político. Según el Servicio Electoral, el PDG contiene una gran deuda hacia el Estado, contando con una objeción financiera donde, según la normativa vigente, no se le permite cobrar durante las tres fechas de pago anuales. En el caso de no cobrar ese dinero, simplemente se pierde y no se acumula con el tiempo. En el caso del Partido de la Gente el SERVEL, rechazó su balance financiero del año 2022, en noviembre del 2023, donde el partido entregó más de 30 solicitudes a la institución electoral, pero ese no cedió, perdiendo un total de 628 millones de pesos y afectando fuertemente el arca financiera del partido.",
+      "Por otra parte, el Servicio Electoral ofició una serie de multas y sanciones al PDG, por diversas causas, afectando gravemente la transparencia y probidad del partido. La primera sanción ocurrió en marzo de 2022. Esto por haber infringido el financiamiento legal de campaña que consistió en una multa de 5 UTM, cerca de $280 mil al valor de esa fecha. Luego, en mayo del siguiente año el PDG recibió una nueva multa; esta vez se debió principalmente por no haber entregado a la institución electoral un reglamento para las elecciones internas; en este caso fue sancionado con 100 UTM, aproximadamente 6,3 millones de pesos.",
+      "Al siguiente año, fue la denominada caída financiera del Partido de la Gente; el SERVEL nuevamente multó al PDG con una suma de 26 millones de pesos. Esto se debió a que principalmente porque la colectividad no constituyó sus órganos electorales internos de la forma prevista en su estatuto; de esta forma infringió “la democracia interna del partido”. Ese año, además de la alta multa que debió pagar el partido, el SERVEL rechazó con 33 objeciones la posibilidad de recibir dinero por parte del organismo electoral.",
+      "Con esta situación, el PDG perdió credibilidad, disminuyendo en más de 11 mil afiliados, aunque el colectivo mantiene 36.705 militantes, lo que lo sitúa por encima de la UDI, la DC, el PPD y el Partido Republicano, entre otras colectividades.",
+      "El vacío legal: la campaña millonaria que el SERVEL no pudo fiscalizar",
+      "En el año 2022, se reveló una situación preocupante: 36 entidades gastaron 119 millones sin fiscalización del SERVEL. Esto se dio bajo el contexto del plebiscito del apruebo o el rechazo, principalmente en publicidad pagada de redes sociales. El problema está en que la institución electoral no tiene la facultad de investigarlo, debido a que no se encuentran sometidas al SERVEL, y por esto no están obligados a declarar el origen de sus dineros. El 97,4% del total gastado correspondió a iniciativas que se opusieron a la propuesta de la convención.",
+      "El reportaje detalló que estas organizaciones operaban bajo diversas fachadas, como organizaciones de la sociedad civil, fundaciones e incluso sociedades por acciones (SpA). Al no inscribirse como comandos, podían gastar sin límite y, lo más crítico, sin tener que revelar quiénes estaban financiando realmente esa propaganda.",
+      "La investigación de CIPER demostró que, lejos de ser actores independientes, muchas de estas entidades tenían vínculos directos con figuras políticas de alto nivel. Se identificaron conexiones con exministros del gobierno de Sebastián Piñera y figuras de la UDI y RN ligadas al \"Rechazo\", así como organizaciones vinculadas a Apruebo Dignidad que financiaban el \"Apruebo\".",
+      "Esta \"campaña paralela\" generó una profunda cancha dispareja. Mientras los comandos oficiales del Apruebo y Rechazo tenían un límite de gasto legal (fijado en 150.000 UF), estas 36 organizaciones gastaron $119 millones sin ningún tipo de tope, inclinando la balanza comunicacional de forma desregulada.",
+      "El entonces presidente del SERVEL, Andrés Tagle, reconoció públicamente este vacío legal ante CIPER. Admitió que la propaganda de \"terceros\" (organizaciones no inscritas) no estaba normada en la ley, por lo que el organismo no tenía las facultades para controlar el origen o el monto de esos fondos, confirmando la falta de control sobre ese millonario gasto.",
+      "La investigación demuestra un patrón de conducta que se repite elección tras elección. Desde el gasto millonario y no fiscalizado de \"terceros\" en el plebiscito de 2022 donde el 97,4% de los fondos no declarados favoreció a una opción, hasta la actual investigación contra 31 parlamentarios por propaganda anticipada, la evasión de la norma es sistémica. Las excusas legales varían, apelando al \"vacío legal\" o a la \"difusión de ideas\", pero el objetivo de fondo persiste: obtener una ventaja indebida inclinando la cancha electoral antes de que suene el pitazo inicial.",
+      "Frente a esto, el rol del SERVEL se ha vuelto más estricto, cursando más de $770 millones en sanciones y suspendiendo el financiamiento a partidos como el PDG por faltas graves a la probidad. Sin embargo, el poder fiscalizador choca con la resistencia de la misma clase política que regula. Los casos de Kast, Macaya y otros parlamentarios que recurren al Tricel para anular multas, demuestran la tensión entre el regulador y quienes, irónicamente, son los responsables de crear y actualizar las leyes que ellos mismos infringen.",
+      "El desafío final recae en la actualización de la ley. Los casos expuestos demuestran que la legislación actual (Ley 18.700) no da abasto para controlar el ecosistema digital. Mientras no exista una regulación explícita que cierre el \"vacío legal\" de los \"terceros\" y defina claramente qué constituye \"propaganda pagada\" en redes sociales, el financiamiento irregular seguirá fluyendo. La transparencia, pilar de la Ley 19.884, seguirá siendo una promesa incompleta mientras la trampa vaya un paso por delante de la norma."
+    ]
   },
   {
     "id": "congreso",
@@ -75,12 +143,29 @@
     "participation": "Individual",
     "credits": "Luciano Salazar",
     "role": "Autor del texto firmado",
-    "synopsis": "Trabajo de Bajo la Lupa sobre política. Ficha de autor y contexto; texto completo en revisión.",
+    "synopsis": "En Chile, la relación entre el Poder Ejecutivo y el Congreso ha sido históricamente una tensión constante, marcada por avances y retrocesos en el equilibrio democrático. Cada vez que el presidencialismo ha concentrado más poder, el Parlamento ha quedado bajo cuestionamiento: debilitado, intervenido o derechamente disuelto. No se trata de episodios aislados, sino de hitos que han dejado huellas profundas en la institucionalidad del país.",
     "category": "Bajo la Lupa",
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
-    "media_restricted": true,
-    "public_note": "El texto completo se conserva en el archivo local. Su reproducción pública espera revisión editorial y autorización de difusión."
+    "paragraphs": [
+      "Disolver el Congreso: gobernabilidad sin contrapesos",
+      "En Chile, la relación entre el Poder Ejecutivo y el Congreso ha sido históricamente una tensión constante, marcada por avances y retrocesos en el equilibrio democrático. Cada vez que el presidencialismo ha concentrado más poder, el Parlamento ha quedado bajo cuestionamiento: debilitado, intervenido o derechamente disuelto. No se trata de episodios aislados, sino de hitos que han dejado huellas profundas en la institucionalidad del país.",
+      "Escrito por: Luciano Salazar",
+      "Esta discusión volvió el debate público en pleno 2025, por un proyecto de ley, presentado por el diputado Gaspar Rivas (ind), quien propuso que el presidente de la república tenga la facultad de disolver el congreso por 180 días y gobernar a través de decretos ley, para luego de este plazo volver a llamar a elecciones parlamentarias. Esta iniciativa representa un riesgo para la estabilidad democrática del país y una profunda desconexión con la ciudadanía y abrió un debate de fondo: ¿qué ocurre cuando el poder legislativo es suspendido en nombre de la gobernabilidad?",
+      "Para este bajo la lupa, resulta indispensable mirar hacia el pasado. Desde la disolución del Congreso durante la guerra civil de 1891, pasando por la ruptura institucional de 1924-1925, hasta el cierre definitivo del Parlamento tras el golpe de Estado de 1973. La historia chilena ofrece una cronología clara de cómo la concentración de poder en el Ejecutivo ha impactado muchas veces de forma irreversible en la democracia.",
+      "Este Bajo la lupa, propone revisar esos momentos clave, analizar sus consecuencias políticas y sociales, y contrastarlos con el debate actual en el Congreso Nacional de Chile. Porque antes de discutir si una medida como la propuesta por Rivas fortalece o debilita la democracia, es necesario responder una pregunta esencial: ¿qué nos enseña la historia chilena cada vez que el Congreso ha sido dejado fuera del juego?",
+      "Disolver el Congreso: qué significa y qué cambia",
+      "En términos institucionales, significa, dar por anticipado el término del mandato de sus parlamentarios, o hacer que las cámaras dejen de sesionar, ya sea para convocar nuevas elecciones, o mantenerse en el poder como es caso de las dictaduras o regímenes autoritarios, durante este plazo la figura del presidencialismo se vuelve más importante, debido a que concentra dos de los tres poderes del Estado y en el caso de Chile es presidente gobierna a través de decretos ley que es una norma con rango de ley que el Gobierno dicta en situaciones de extraordinaria y urgente necesidad, sin la intervención inicial del poder legislativo, pero que debe ser sometida a su convalidación, pero en una democracia como la nuestra este debe ser sometido a las cámaras parlamentarias. Su función es resolver problemas urgentes que no pueden esperar los trámites legislativos normales.",
+      "En Chile, los episodios en que el Congreso fue clausurado o disuelto no suelen aparecer como un mecanismo normal de gobernabilidad, sino como parte de crisis mayores (1891, 1924 y 1973) donde el Ejecutivo o un poder de facto terminó concentrando funciones.",
+      "Antes que todo, debemos comprender que son y cómo nacen las facultades presidenciales en nuestro país. Todo surge en 1833 con la constitución de Diego Portales, donde se le entregó al presidente un poder político con una base de control central del orden, capacidad de conducción del Estado y herramientas para influir en la legislación, como facultades extraordinarias en situaciones de crisis como estado de sitio en incluso se menciona la idea de “suspender la Constitución”, como una herramienta excepcional. Este escrito gobernó por 92 años, siendo la más larga de la historia. ",
+      "Las facultades presidenciales son, básicamente, los poderes legales que tiene el presidente para gobernar: dirigir el gobierno y los ministerios, tomar decisiones administrativas, proponer leyes (y en algunos temas, ser el único que puede iniciar proyectos), y manejar el presupuesto del Estado según reglas. En democracia, esas facultades no son ilimitadas: existen para que el país funcione, pero deben estar equilibradas con el Congreso y otros controles; si se vuelven demasiado fuertes o no tienen contrapeso, el poder se concentra y aumenta el riesgo de abusos.",
+      "1891–1925: del bloqueo parlamentario a la vuelta del presidencialismo",
+      "Este periodo no estuvo exento de conflictos. La prueba más dura llegó en 1891, con la denominada “guerra civil” aquí se enfrentó el poder ejecutivo con el legislativo, donde el Presidente José Manuel Balmaceda y el Congreso, disputaban sobre el presupuesto público, en este caso el poder parlamentario, no se lo aprobó y Balmaceda usado la facultad presidencial que le entregaba la constitución de 1833, el 11 de febrero de 1891 ordenó el cierre del congreso y comenzó a gobernar por decretos ley, en este caso el presidente se alió con la armada y el congreso con el ejército, terminando en una guerra civil con el suicidio de Manuel Balmaceda y empezando un periodo de inestabilidad política conocido como el “periodo parlamentario”, marcado por la desconfianza del poder ejecutivo y la búsqueda de una nueva forma de gobierno.",
+      "En 1891 no solo se quebró la confianza en el sistema presidencialista en la práctica, el sistema terminó moviéndose hacia uno más parlamentarista, donde el poder de la figura del ejecutivo se vio condicionado a un parlamento más poderoso que buscaba evitar que se concentrara el poder solo en el presidente, pero también acaba fracasando este sistema, por no ser capaz de lograr un equilibrio democrático. Este periodo estuvo marcado por tragedias como la matanza de La Escuela Santa María en Iquique y los múltiples conflictos sociales que contrajo esta época a causa de un congreso que no tenía un contrapeso firme y por esta razón, los legisladores usaban su poder político para beneficio propio. Con este claro ejemplo histórico, podemos observar cómo se invirtió el péndulo en la democracia chilena, pero seguía estando el mismo conflicto, la falta de equilibrio democrático. Este sistema duró hasta 1925, cuando se crea la constitución de Arturo Alessandri Palma.",
+      "Después de décadas del periodo parlamentario, donde el poder presidencial quedaba amarrado a mayorías cambiantes y gabinetes frágiles, estalla con el “Ruido de Sable” en 1924, el tres de septiembre. El coronel Carlos Ibáñez entró en la escena política nacional el año 1924 liderando a un grupo de oficiales que, desde las galerías del Senado, expresaron su molestia contra el Parlamento. Este movimiento se denominó \"ruido de sables\" debido al estruendo que produjeron los oficiales con sus armas. Por esta razón nace la Constitución de 1925, por Arturo Alessandri Palma, que buscó cerrar el ciclo al periodo parlamentario y volver al presidencialismo, donde se le otorgó al ejecutivo herramientas para empujar agenda y presupuesto, con un congreso que sea un colegislador, pero que no pueda bloquear al poder presidencial por maniobra política como sucedió durante el periodo parlamentario.",
+      "1973: sin Congreso, el poder se concentra",
+      "Pero ese mismo péndulo dejó una tensión instalada: cuando el presidente concentra más palancas para destrabar, también crece el miedo a que “destrabar” signifique pasar por encima. En el Chile del siglo XX, esa fricción reaparece con fuerza en el tramo 1970–1973, cuando el conflicto Ejecutivo y Congreso se vuelve un choque de legitimidades. El hito simbólico es el Acuerdo de la Cámara de Diputados del 22 de agosto de 1973, que habla de “grave quebrantamiento” del orden constitucional: el Parlamento ya no solo discute leyes, discute si el Gobierno está dentro o fuera del marco.",
+      "Tras el golpe de Estado del 11 de septiembre de 1973, el quiebre no fue solo cambio de gobierno: fue cambio de régimen. En la práctica, el contrapeso central de una democracia el Congreso desapareció: la Junta de Gobierno se constituyó y asumió el “mando supremo” y, pocas semanas después, el Decreto Ley N° 27 (24 de septiembre de 1973) disolvió el Congreso Nacional y puso fin al mandato de los parlamentarios. En ese escenario, Pinochet no opera como un presidente sujeto a equilibrio de poderes, sino como dictador: con el Parlamento fuera de juego, el poder se concentra y el gobernar se vuelve mandar sin control político efectivo, porque ya no hay una cámara que fiscalice, negocie o frene, ni una alternancia normal que obligue a rendir cuentas. Esa es la lección dura: cuando el Estado rompe el equilibrio y anula el contrapeso legislativo, la excepcionalidad se vuelve regla y la autoridad puede expandirse sin límites.",
+      "Y por eso hoy la discusión se siente como un péndulo: décadas después, en plena democracia, vuelve a aparecer la tentación de “resolver” el conflicto Ejecutivo Congreso debilitando al Congreso. El diputado Gaspar Rivas, en pleno periodo post elecciones presidenciales luego de que ganara José Antonio Kast, un candidato de extrema derecha reabrió ese debate con una reforma que permitiría al presidente disolver el Congreso si un proyecto declarado esencial es rechazado o modificado en su esencia, y legislar por decretos con fuerza de ley por hasta 180 días mientras se elige un nuevo Congreso. La historia chilena muestra por qué esta idea no es neutra: cuando el contrapeso se corta, el poder deja de equilibrarse y empieza a acumularse."
+    ]
   },
   {
     "id": "coaniquem",
@@ -95,12 +180,9 @@
     "synopsis": "Una nota en terreno sobre Coaniquem Store y su vínculo con la atención de niños con quemaduras.",
     "duration": 181.269,
     "course": "Taller de Televisión (procedencia de carpeta e índice)",
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
-    "media_restricted": true,
-    "public_note": "La reproducción del video espera confirmación de permisos de difusión del equipo, participantes y material de terceros.",
-    "image": "assets/ficha-coaniquem.svg",
-    "alt": "Ficha editorial de Coaniquem Store"
+    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/coaniquem.mp4",
+    "image": "assets/coaniquem.webp",
+    "alt": "Fotograma original de Coaniquem Store"
   },
   {
     "id": "educacion",
@@ -115,12 +197,9 @@
     "synopsis": "Cobertura de una actividad de educación parvularia, con intervenciones y presentación desde el lugar.",
     "duration": 179.392,
     "course": "Taller de Televisión (procedencia de carpeta e índice)",
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
-    "media_restricted": true,
-    "public_note": "La reproducción del video espera confirmación de permisos de difusión del equipo, participantes y material de terceros.",
-    "image": "assets/ficha-educacion.svg",
-    "alt": "Ficha editorial de Educación parvularia"
+    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/educacion.mp4",
+    "image": "assets/educacion.webp",
+    "alt": "Fotograma original de Educación parvularia"
   },
   {
     "id": "tejidos",
@@ -135,12 +214,9 @@
     "synopsis": "Cobertura de una actividad de tejido en un recinto deportivo, con imágenes del encuentro y presentación en terreno.",
     "duration": 184.234,
     "course": "Taller de Televisión (procedencia de carpeta e índice)",
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
-    "media_restricted": true,
-    "public_note": "La reproducción del video espera confirmación de permisos de difusión del equipo, participantes y material de terceros.",
-    "image": "assets/ficha-tejidos.svg",
-    "alt": "Ficha editorial de Red de tejidos"
+    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/tejidos.mp4",
+    "image": "assets/tejidos.webp",
+    "alt": "Fotograma original de Red de tejidos"
   },
   {
     "id": "diplomatica",
@@ -155,12 +231,9 @@
     "synopsis": "Recorrido por una muestra diplomática en La Moneda, con declaraciones y presentación desde el lugar.",
     "duration": 190.869,
     "course": "Taller de Televisión (procedencia de carpeta e índice)",
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
-    "media_restricted": true,
-    "public_note": "La reproducción del video espera confirmación de permisos de difusión del equipo, participantes y material de terceros.",
-    "image": "assets/ficha-diplomatica.svg",
-    "alt": "Ficha editorial de Muestra diplomática en La Moneda"
+    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/diplomatica.mp4",
+    "image": "assets/diplomatica.webp",
+    "alt": "Fotograma original de Muestra diplomática en La Moneda"
   },
   {
     "id": "museos",
@@ -175,12 +248,9 @@
     "synopsis": "Nota sobre museos y difusión cultural, con testimonios ciudadanos, una entrevista y recorridos por espacios museísticos.",
     "duration": 305.376,
     "course": "Taller de Televisión (procedencia de carpeta e índice)",
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
-    "media_restricted": true,
-    "public_note": "La reproducción del video espera confirmación de permisos de difusión del equipo, participantes y material de terceros.",
-    "image": "assets/ficha-museos.svg",
-    "alt": "Ficha editorial de Museos y difusión cultural"
+    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/museos.mp4",
+    "image": "assets/museos.webp",
+    "alt": "Fotograma original de Museos y difusión cultural"
   },
   {
     "id": "santa-lucia",
@@ -212,12 +282,9 @@
       }
     ],
     "course": "Taller de Análisis e Integración de Periodismo",
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
-    "media_restricted": true,
-    "public_note": "La reproducción del video espera confirmación de permisos de difusión del equipo, participantes y material de terceros.",
-    "image": "assets/retrato.webp",
-    "alt": "Luciano Salazar presentando en el cerro Santa Lucía"
+    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/santa-lucia.mp4",
+    "image": "assets/santa-lucia.webp",
+    "alt": "Intervención de Luciano Salazar ante las catacumbas del cerro Santa Lucía; identidad confirmada por el titular."
   },
   {
     "id": "reel-desigualdad",
@@ -241,12 +308,9 @@
       }
     ],
     "course": "Taller de Análisis e Integración de Periodismo",
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
-    "media_restricted": true,
-    "public_note": "La reproducción del video espera confirmación de permisos de difusión del equipo, participantes y material de terceros.",
-    "image": "assets/ficha-reel-desigualdad.svg",
-    "alt": "Ficha editorial de Providencia y Recoleta · reel de Integración"
+    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/reel-desigualdad.mp4",
+    "image": "assets/reel-desigualdad.webp",
+    "alt": "Presentación en exteriores del reel Providencia–Recoleta, confirmada por Luciano Salazar."
   },
   {
     "id": "integracion-desigualdad",
@@ -261,12 +325,8 @@
     "synopsis": "Primer reportaje de Integración sobre Providencia y Recoleta, recursos municipales y condiciones de vida. Se conserva como muestra de un trabajo colectivo con participación en cámara acreditada.",
     "duration": 299.583,
     "front_camera_verified": false,
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
-    "media_restricted": true,
-    "public_note": "La reproducción del video espera confirmación de permisos de difusión del equipo, participantes y material de terceros.",
-    "image": "assets/ficha-integracion-desigualdad.svg",
-    "alt": "Ficha editorial de Reportaje 1 de integración periodística"
+    "preview_url": "https://drive.google.com/file/d/1AWzSD2By-jsZvyTiooBwvL17aHBCmv2a/preview",
+    "public_note": "La difusión de este reportaje completo aún requiere confirmar los permisos de Fernanda Marín (presentación), Thomas Quintanilla, Katherine Matamala y Natalia Chocano (cámara), y del material de terceros utilizado. Luciano figura en cámara junto al equipo; no presenta esta pieza. La confirmación de las nueve piezas no incluyó este reportaje adicional."
   },
   {
     "id": "tarot-2025",
@@ -287,11 +347,8 @@
         "label": "Presentación identificada de Luciano"
       }
     ],
-    "evidence": "Autoría y funciones registradas en la ficha editorial de esta selección.",
-    "context": "Trabajo de la selección personal de Luciano Salazar Osorio. Se conserva la autoría colectiva cuando corresponde.",
-    "media_restricted": true,
-    "public_note": "La reproducción del video espera confirmación de permisos de difusión del equipo, participantes y material de terceros.",
-    "image": "assets/ficha-tarot-2025.svg",
-    "alt": "Ficha editorial de Tarot: Aravena y Salazar"
+    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/tarot-2025.mp4",
+    "image": "assets/tarot-2025.webp",
+    "alt": "Luciano Salazar identificado por rótulo ante la entrada de un café temático de astrología."
   }
 ]
