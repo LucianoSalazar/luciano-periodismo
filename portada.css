@@ -320,16 +320,27 @@ to{transform:none;opacity:1}}}
 
 .selected-interviews .recovered-text{grid-template-columns:1fr;min-height:0}.selected-interviews .recovered-text .selected-copy{padding:24px 26px 30px}@media(max-width:600px){.selected-interviews .recovered-text{grid-template-columns:1fr;min-height:0}.selected-interviews .recovered-text .selected-copy{padding:22px 18px 58px}}
 
-/* Shared editorial galleries: preserve the approved cards and section identities. */
-.official-reference .editorial-track{display:grid;grid-auto-flow:column;grid-template-columns:none;grid-auto-columns:calc((100% - 40px)/3);gap:20px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding-inline:0;overscroll-behavior-inline:contain;padding-bottom:14px;scrollbar-width:thin;scrollbar-color:#bd945b transparent}
-.official-reference .editorial-track>*{scroll-snap-align:start;min-width:0}
-.editorial-track:focus-visible{outline:2px solid #bd945b;outline-offset:5px}
-.editorial-controls{display:flex;align-items:center;justify-content:flex-end;gap:10px;margin:12px 0 6px;font:600 12px/1.4 'Source Sans 3',Arial,sans-serif;color:inherit}
-.editorial-controls>span{margin-right:8px;opacity:.8}
-.editorial-controls button{width:38px;height:36px;border:1px solid #bd945b;border-radius:4px;background:transparent;color:inherit;font:22px/1 Arial,sans-serif;cursor:pointer}
-.editorial-controls button:hover:not(:disabled){background:#bd945b;color:#071e2d}
-.editorial-controls button:disabled{opacity:.3;cursor:default}
+/* Editorial collections: three lead works, with the rest disclosed below. */
+.official-reference .editorial-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
+.editorial-grid>*{min-width:0}
 .editorial-video-collection{min-width:0}
-.official-lupa .editorial-track h3{padding-right:34px;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
-.official-lupa .editorial-track .selected-copy>p:not(.selected-category),.editorial-track .official-video-card>p,.editorial-track .official-feature-copy>p{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-@media(max-width:850px){.official-reference .editorial-track{grid-auto-columns:100%;gap:20px}.editorial-controls{justify-content:space-between}.editorial-controls>span{margin-right:auto}}
+.editorial-disclosure{margin-top:24px;border-top:1px solid #bd945b66}
+.editorial-disclosure>summary{display:flex;align-items:center;gap:14px;list-style:none;padding:18px 2px;cursor:pointer;font:600 14px/1.4 'Source Sans 3',Arial,sans-serif;color:inherit;transition:color .2s}
+.editorial-disclosure>summary::-webkit-details-marker{display:none}
+.disclosure-labels{margin-right:auto;letter-spacing:.025em}
+.disclosure-less{display:none}
+.disclosure-count{font-size:11px;letter-spacing:.06em;border:1px solid #bd945b66;border-radius:20px;padding:4px 11px;white-space:nowrap}
+.disclosure-icon{width:30px;height:30px;border:1px solid #bd945b;border-radius:50%;position:relative;flex:none;transition:transform .2s}
+.disclosure-icon::before,.disclosure-icon::after{content:'';position:absolute;left:8px;right:8px;top:13px;height:1px;background:currentColor}
+.disclosure-icon::after{transform:rotate(90deg)}
+.editorial-disclosure[open] .disclosure-icon{transform:rotate(45deg)}
+.editorial-disclosure[open] .disclosure-more,.editorial-disclosure[open] .disclosure-count{display:none}
+.editorial-disclosure[open] .disclosure-less{display:inline}
+.editorial-disclosure>summary:hover{color:#b68a43}
+.official-lupa .editorial-disclosure>summary:hover{color:#e9bb73}
+.editorial-disclosure>summary:focus-visible{outline:2px solid #bd945b;outline-offset:4px;border-radius:3px}
+.editorial-disclosure>.editorial-grid{padding-top:8px;padding-bottom:12px}
+.official-lupa .editorial-grid h3{padding-right:34px;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+.official-lupa .editorial-grid .selected-copy>p:not(.selected-category),.editorial-grid .official-video-card>p,.editorial-grid .official-feature-copy>p{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+@media(max-width:850px){.official-reference .editorial-grid{grid-template-columns:1fr;gap:23px}.editorial-disclosure{margin-top:20px}.editorial-disclosure>summary{font-size:13px;padding:17px 0}}
+@media(prefers-reduced-motion:no-preference){.editorial-disclosure[open]>.editorial-grid{animation:editorial-reveal .24s ease-out}@keyframes editorial-reveal{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}}

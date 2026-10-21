@@ -3,16 +3,3 @@
 
 
  document.querySelectorAll("[data-open-lupa]").forEach(a=>a.addEventListener("click",()=>document.querySelector('[data-news-filter="Bajo la Lupa"]')?.click()));
-
-// Shared, keyboard-accessible rows: three works on desktop, one on mobile.
-document.querySelectorAll('.editorial-track').forEach(track=>{
- const buttons=[...document.querySelectorAll('[data-editorial-scroll]')].filter(b=>b.getAttribute('aria-controls')===track.id);
- const update=()=>buttons.forEach(b=>b.disabled=Number(b.dataset.editorialScroll)<0?track.scrollLeft<=2:track.scrollLeft+track.clientWidth>=track.scrollWidth-2);
- buttons.forEach(button=>button.addEventListener('click',()=>{
-  const gap=parseFloat(getComputedStyle(track).columnGap)||0;
-  const step=track.firstElementChild.getBoundingClientRect().width+gap;
-  const count=Math.max(1,Math.round(track.clientWidth/step));
-  track.scrollBy({left:Number(button.dataset.editorialScroll)*step*count,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});
- }));
- track.addEventListener('scroll',update,{passive:true});new ResizeObserver(update).observe(track);update();
-});
