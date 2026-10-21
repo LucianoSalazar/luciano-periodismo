@@ -10,8 +10,11 @@
     "credits": "Luciano Poblete, Luciano Salazar y Mateo Segovia",
     "role": "Coautor acreditado; tareas de datos, diseño y programación sin desglose confirmado",
     "synopsis": "Reportaje multimedia sobre desigualdad entre Providencia y Recoleta. La firma pública acredita a tres autores.",
-    "category": "Periodismo de datos",
-    "source_url": "https://tdinoticias.github.io/web/reportajeprovidenciarecoleta.html"
+    "evidence": "Byline de reportajeprovidenciarecoleta.html: «Escrito por: Luciano Poblete, Luciano Salazar y Mateo Segovia».",
+    "source_url": "https://tdinoticias.github.io/web/reportajeprovidenciarecoleta.html",
+    "source_status": "HTTP 200, verificado el 17-10-2026.",
+    "approved": true,
+    "category": "Periodismo de datos"
   },
   {
     "id": "trasplantes",
@@ -24,8 +27,11 @@
     "credits": "Pablo Alarcón, Fernanda Marín, Luciano Poblete, Luciano Salazar y Mateo Segovia",
     "role": "Coautor del reportaje; reparto individual de tareas no confirmado",
     "synopsis": "Un reportaje colectivo sobre el sistema de trasplantes, sustentado en datos y testimonios. Acceso a la publicación completa y sus visualizaciones originales.",
-    "category": "Investigación",
-    "source_url": "https://tdinoticias.github.io/web/reportaje.html"
+    "evidence": "Firma en DOCX final y publicación TDI; informe anexo de Periodismo de Datos y Precisión I.",
+    "source_url": "https://tdinoticias.github.io/web/reportaje.html",
+    "source_status": "HTTP 200, verificado el 17-10-2026.",
+    "approved": true,
+    "category": "Investigación"
   },
   {
     "id": "monsalve",
@@ -38,6 +44,10 @@
     "credits": "Luciano Salazar",
     "role": "Autor del texto firmado",
     "synopsis": "Este viernes se cumplió un año desde el escándalo que sacudió a La Moneda, luego de que se hiciera pública la denuncia de una trabajadora del Ministerio del Interior, quien acusó una violación perpetrada por el entonces subsecretario Manuel Monsalve.",
+    "evidence": "Firma «Escrito por: Luciano Salazar» en el DOCX original.",
+    "source_url": null,
+    "source_status": "Publicación remota no verificable; copia personal recuperada.",
+    "approved": false,
     "category": "Bajo la Lupa",
     "paragraphs": [
       " Caso Monsalve: Un Año de Controversia y Justicia Pendiente",
@@ -86,6 +96,10 @@
     "credits": "Luciano Salazar",
     "role": "Autor del texto firmado",
     "synopsis": "En este Bajo la lupa abordaremos el doble estándar que atraviesa a la clase política chilena. Revelaremos cómo, a pesar de las sanciones récord impuestas por el SERVEL (más de $770 millones en un año), un grupo de 31 parlamentarios de distintas bancadas sigue evadiendo la Ley Electoral. La investigación se centrará en el uso ilícito de propaganda anticipada y las millonarias consecuencias judiciales que persisten, desde la multa de 161 UTM a Kast hasta la crisis de financiamiento en partidos como el PDG.",
+    "evidence": "Firma «Escrito por: Luciano Salazar» en el DOCX original.",
+    "source_url": null,
+    "source_status": "Publicación remota no verificable; copia personal recuperada.",
+    "approved": false,
     "category": "Bajo la Lupa",
     "paragraphs": [
       "Bajo la lupa: de la multa millonaria a Kast (161 UTM) al colapso financiero del PDG ($628 millones perdidos): las pruebas del SERVEL que exponen el incumplimiento sistémico de la ley electoral",
@@ -144,6 +158,10 @@
     "credits": "Luciano Salazar",
     "role": "Autor del texto firmado",
     "synopsis": "En Chile, la relación entre el Poder Ejecutivo y el Congreso ha sido históricamente una tensión constante, marcada por avances y retrocesos en el equilibrio democrático. Cada vez que el presidencialismo ha concentrado más poder, el Parlamento ha quedado bajo cuestionamiento: debilitado, intervenido o derechamente disuelto. No se trata de episodios aislados, sino de hitos que han dejado huellas profundas en la institucionalidad del país.",
+    "evidence": "Firma «Escrito por: Luciano Salazar» en el DOCX original.",
+    "source_url": null,
+    "source_status": "Publicación remota no verificable; copia personal recuperada.",
+    "approved": false,
     "category": "Bajo la Lupa",
     "paragraphs": [
       "Disolver el Congreso: gobernabilidad sin contrapesos",
@@ -174,15 +192,25 @@
     "topic": "Sociedad",
     "year": null,
     "medium": "Universidad Autónoma de Chile",
-    "participation": "Colectiva",
-    "credits": "Luciano Salazar y Luciano Poblete",
-    "role": "Presentación en terreno",
-    "synopsis": "Una nota en terreno sobre Coaniquem Store y su vínculo con la atención de niños con quemaduras.",
-    "duration": 181.269,
     "course": "Taller de Televisión (procedencia de carpeta e índice)",
-    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/coaniquem.mp4",
+    "duration": 181.269,
+    "synopsis": "Una nota en terreno sobre Coaniquem Store y su vínculo con la atención de niños con quemaduras.",
+    "credits": "Luciano Salazar y Luciano Poblete",
+    "participation": "Colectiva",
+    "role": "Presentación en terreno",
+    "evidence": "Rótulo de apertura identifica a Luciano Salazar Osorio; autoría colectiva declarada en el manifiesto.",
+    "tech": "1280 × 720 · H.264 · audio presente",
+    "video": "assets/coaniquem.mp4",
     "image": "assets/coaniquem.webp",
-    "alt": "Fotograma original de Coaniquem Store"
+    "alt": "Fotograma original de Coaniquem Store",
+    "source_url": null,
+    "approved": true,
+    "techniques": [
+      "Presentación en terreno"
+    ],
+    "context": "Trabajo universitario. Fecha de realización no acreditada.",
+    "quality": "Fotogramas y decodificación revisados; escucha editorial pendiente.",
+    "rights_confirmed": "Confirmación expresa de Luciano: permisos de difusión de las nueve piezas, incluidos equipo y terceros; 17-10-2026."
   },
   {
     "id": "educacion",
@@ -191,15 +219,25 @@
     "topic": "Educación",
     "year": null,
     "medium": "Universidad Autónoma de Chile",
-    "participation": "Colectiva",
-    "credits": "Luciano Salazar y Luciano Poblete",
-    "role": "Presentación en terreno",
-    "synopsis": "Cobertura de una actividad de educación parvularia, con intervenciones y presentación desde el lugar.",
-    "duration": 179.392,
     "course": "Taller de Televisión (procedencia de carpeta e índice)",
-    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/educacion.mp4",
+    "duration": 179.392,
+    "synopsis": "Cobertura de una actividad de educación parvularia, con intervenciones y presentación desde el lugar.",
+    "credits": "Luciano Salazar y Luciano Poblete",
+    "participation": "Colectiva",
+    "role": "Presentación en terreno",
+    "evidence": "Rótulo final acredita expresamente a Luciano Salazar y Luciano Poblete; corrige el índice que decía individual.",
+    "tech": "1280 × 720 · H.264 · audio presente",
+    "video": "assets/educacion.mp4",
     "image": "assets/educacion.webp",
-    "alt": "Fotograma original de Educación parvularia"
+    "alt": "Fotograma original de Educación parvularia",
+    "source_url": null,
+    "approved": true,
+    "techniques": [
+      "Presentación en terreno"
+    ],
+    "context": "Trabajo universitario. Fecha de realización no acreditada.",
+    "quality": "Fotogramas y decodificación revisados; escucha editorial pendiente.",
+    "rights_confirmed": "Confirmación expresa de Luciano: permisos de difusión de las nueve piezas, incluidos equipo y terceros; 17-10-2026."
   },
   {
     "id": "tejidos",
@@ -208,15 +246,25 @@
     "topic": "Comunidad",
     "year": null,
     "medium": "Universidad Autónoma de Chile",
-    "participation": "Individual según índice",
-    "credits": "Luciano Salazar",
-    "role": "Presentación en terreno",
-    "synopsis": "Cobertura de una actividad de tejido en un recinto deportivo, con imágenes del encuentro y presentación en terreno.",
-    "duration": 184.234,
     "course": "Taller de Televisión (procedencia de carpeta e índice)",
-    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/tejidos.mp4",
+    "duration": 184.234,
+    "synopsis": "Cobertura de una actividad de tejido en un recinto deportivo, con imágenes del encuentro y presentación en terreno.",
+    "credits": "Luciano Salazar",
+    "participation": "Individual según índice",
+    "role": "Presentación en terreno",
+    "evidence": "Rótulo inicial identifica a Luciano Salazar Osorio; individualidad declarada en el manifiesto, sin desglose de producción.",
+    "tech": "1280 × 720 · H.264 · audio presente",
+    "video": "assets/tejidos.mp4",
     "image": "assets/tejidos.webp",
-    "alt": "Fotograma original de Red de tejidos"
+    "alt": "Fotograma original de Red de tejidos",
+    "source_url": null,
+    "approved": true,
+    "techniques": [
+      "Presentación en terreno"
+    ],
+    "context": "Trabajo universitario. Fecha de realización no acreditada.",
+    "quality": "Fotogramas y decodificación revisados; escucha editorial pendiente.",
+    "rights_confirmed": "Confirmación expresa de Luciano: permisos de difusión de las nueve piezas, incluidos equipo y terceros; 17-10-2026."
   },
   {
     "id": "diplomatica",
@@ -225,15 +273,25 @@
     "topic": "Cultura",
     "year": null,
     "medium": "Universidad Autónoma de Chile",
-    "participation": "Individual según índice",
-    "credits": "Luciano Salazar",
-    "role": "Presentación en terreno",
-    "synopsis": "Recorrido por una muestra diplomática en La Moneda, con declaraciones y presentación desde el lugar.",
-    "duration": 190.869,
     "course": "Taller de Televisión (procedencia de carpeta e índice)",
-    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/diplomatica.mp4",
+    "duration": 190.869,
+    "synopsis": "Recorrido por una muestra diplomática en La Moneda, con declaraciones y presentación desde el lugar.",
+    "credits": "Luciano Salazar",
+    "participation": "Individual según índice",
+    "role": "Presentación en terreno",
+    "evidence": "Índice y manifiesto atribuyen la pieza a Luciano Salazar; el desglose de tareas no está documentado.",
+    "tech": "1280 × 720 · H.264 · audio presente",
+    "video": "assets/diplomatica.mp4",
     "image": "assets/diplomatica.webp",
-    "alt": "Fotograma original de Muestra diplomática en La Moneda"
+    "alt": "Fotograma original de Muestra diplomática en La Moneda",
+    "source_url": null,
+    "approved": true,
+    "techniques": [
+      "Presentación en terreno"
+    ],
+    "context": "Trabajo universitario. Fecha de realización no acreditada.",
+    "quality": "Fotogramas y decodificación revisados; escucha editorial pendiente.",
+    "rights_confirmed": "Confirmación expresa de Luciano: permisos de difusión de las nueve piezas, incluidos equipo y terceros; 17-10-2026."
   },
   {
     "id": "museos",
@@ -242,31 +300,56 @@
     "topic": "Cultura",
     "year": null,
     "medium": "Universidad Autónoma de Chile",
-    "participation": "Colectiva",
-    "credits": "Aravena y Salazar",
-    "role": "Participación en la producción; tareas por confirmar",
-    "synopsis": "Nota sobre museos y difusión cultural, con testimonios ciudadanos, una entrevista y recorridos por espacios museísticos.",
-    "duration": 305.376,
     "course": "Taller de Televisión (procedencia de carpeta e índice)",
-    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/museos.mp4",
+    "duration": 305.376,
+    "synopsis": "Nota sobre museos y difusión cultural, con testimonios ciudadanos, una entrevista y recorridos por espacios museísticos.",
+    "credits": "Aravena y Salazar",
+    "participation": "Colectiva",
+    "role": "Presentación en terreno en la apertura del reportaje.",
+    "evidence": "Rótulo visible «Luciano Salazar Osorio · Periodista» en torno a 00:05; fotograma revisado del original.",
+    "tech": "960 × 540 · H.264 · audio presente",
+    "video": "assets/museos.mp4",
     "image": "assets/museos.webp",
-    "alt": "Fotograma original de Museos y difusión cultural"
+    "alt": "Fotograma original de Museos y difusión cultural",
+    "source_url": null,
+    "approved": true,
+    "techniques": [
+      "Testimonios y recorrido museístico (obra colectiva)"
+    ],
+    "context": "Trabajo universitario. Fecha de realización no acreditada.",
+    "quality": "Fotogramas y decodificación revisados; escucha editorial pendiente.",
+    "rights_confirmed": "Confirmación expresa de Luciano: permisos de difusión de las nueve piezas, incluidos equipo y terceros; 17-10-2026."
   },
   {
-    "id": "santa-lucia",
-    "title": "Enigmas y misterios del Cerro Santa Lucía",
     "format": "Audiovisual",
-    "topic": "Historia y patrimonio",
     "year": 2026,
     "medium": "Universidad Autónoma de Chile",
+    "course": "Taller de Análisis e Integración de Periodismo",
     "participation": "Colectiva",
+    "approved": true,
+    "front_camera_verified": true,
+    "identity_evidence": "Confirmación expresa de Luciano Salazar en este chat tras revisar fotogramas y referencias temporales; 17 de octubre de 2026.",
+    "source_url": null,
+    "id": "santa-lucia",
+    "title": "Enigmas y misterios del Cerro Santa Lucía",
+    "title_source": "Título del proyecto según carpeta de entrega «Enigmas y misterios del Cerro Santa Lucia», con acentuación normalizada.",
+    "duration": 420.118,
+    "topic": "Historia y patrimonio",
+    "tier": "reportaje",
+    "synopsis": "Un recorrido por la historia, los relatos y los espacios del cerro Santa Lucía. El reportaje combina presentaciones en terreno, testimonios y una entrevista sobre los enigmas que rodean este lugar de Santiago.",
     "credits": "Trabajo colectivo de Taller de Análisis e Integración de Periodismo. Luciano Salazar: intervenciones ante cámara confirmadas. Nómina y reparto restante del equipo por completar.",
     "role": "Presentaciones en terreno e intervención de cierre. Identidad confirmada por el titular; no se atribuyen cámara, edición ni entrevistas sin respaldo adicional.",
-    "synopsis": "Un recorrido por la historia, los relatos y los espacios del cerro Santa Lucía. El reportaje combina presentaciones en terreno, testimonios y una entrevista sobre los enigmas que rodean este lugar de Santiago.",
-    "category": "Audiovisual",
-    "duration": 420.118,
-    "tier": "reportaje",
-    "front_camera_verified": true,
+    "evidence": "Entrega de Drive: REPORTAJE.mov en la carpeta del segundo trabajo de Integración, fechado en agosto de 2026. Luciano confirmó las intervenciones con boina amarilla y chaleco oscuro, incluyendo 01:24, 02:06 y el cierre. El archivo completo dura 07:00.",
+    "context": "Segundo trabajo de Integración · agosto de 2026 · obra colectiva. Copia completa de la carpeta de entrega; no es el microdocumental de 00:58.",
+    "video": "assets/santa-lucia.mp4",
+    "image": "assets/santa-lucia.webp",
+    "alt": "Intervención de Luciano Salazar ante las catacumbas del cerro Santa Lucía; identidad confirmada por el titular.",
+    "tech": "1280 × 720 · H.264 · 30 fps · AAC original",
+    "techniques": [
+      "Presentación ante cámara",
+      "Recorrido en terreno",
+      "Cierre periodístico"
+    ],
     "chapters": [
       {
         "time": 77.2,
@@ -281,36 +364,49 @@
         "label": "Cierre ante cámara"
       }
     ],
-    "course": "Taller de Análisis e Integración de Periodismo",
-    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/santa-lucia.mp4",
-    "image": "assets/santa-lucia.webp",
-    "alt": "Intervención de Luciano Salazar ante las catacumbas del cerro Santa Lucía; identidad confirmada por el titular."
+    "source_drive": "https://drive.google.com/file/d/1RAsn1MLbmcs6s12zGpJjGeMkutczkU7U/view",
+    "category": "Audiovisual",
+    "rights_confirmed": "Confirmación expresa de Luciano: permisos de difusión de las nueve piezas, incluidos equipo y terceros; 17-10-2026."
   },
   {
-    "id": "reel-desigualdad",
-    "title": "Providencia y Recoleta · reel de Integración",
     "format": "Audiovisual",
-    "topic": "Desigualdad territorial",
     "year": 2026,
     "medium": "Universidad Autónoma de Chile",
+    "course": "Taller de Análisis e Integración de Periodismo",
     "participation": "Colectiva",
+    "approved": true,
+    "front_camera_verified": true,
+    "identity_evidence": "Confirmación expresa de Luciano Salazar en este chat tras revisar fotogramas y referencias temporales; 17 de octubre de 2026.",
+    "source_url": null,
+    "id": "reel-desigualdad",
+    "title": "Providencia y Recoleta · reel de Integración",
+    "title_source": "Título descriptivo para identificar el archivo original «reel 1.mp4».",
+    "duration": 56.239,
+    "topic": "Desigualdad territorial",
+    "tier": "reel",
+    "synopsis": "Una presentación en terreno que compara recursos municipales y plantea cómo el lugar de residencia puede influir en la calidad de vida. Pieza vertical completa del primer trabajo de Integración.",
     "credits": "Equipo de la carpeta de entrega: Marín, Salazar, Matamala, Quintanilla y Chocano. Luciano Salazar: presentación ante cámara, confirmada por el titular. Demás funciones individuales sin desglose confirmado.",
     "role": "Presentación y explicación de información ante cámara, en exteriores de Providencia y Recoleta.",
-    "synopsis": "Una presentación en terreno que compara recursos municipales y plantea cómo el lugar de residencia puede influir en la calidad de vida. Pieza vertical completa del primer trabajo de Integración.",
-    "category": "Audiovisual",
-    "duration": 56.239,
-    "tier": "reel",
-    "front_camera_verified": true,
+    "evidence": "Archivo «reel 1.mp4» recuperado de la carpeta Primer Trabajo de integración periodística (Marín, Salazar, Matamala, Quintanilla, Chocano). Exportación de agosto de 2026. Luciano confirmó expresamente sus intervenciones en la pieza completa de 00:56.",
+    "context": "Primer trabajo de Integración · agosto de 2026 · formato vertical · trabajo colectivo. Se conserva la pieza completa y sus afirmaciones originales, sin convertir las cifras en datos actualizados.",
+    "video": "assets/reel-desigualdad.mp4",
+    "image": "assets/reel-desigualdad.webp",
+    "alt": "Presentación en exteriores del reel Providencia–Recoleta, confirmada por Luciano Salazar.",
+    "tech": "720 × 1280 · H.264 · 30 fps · copia web completa · AAC original",
+    "techniques": [
+      "Síntesis informativa",
+      "Presentación en terreno",
+      "Narrativa vertical"
+    ],
     "chapters": [
       {
         "time": 0,
         "label": "Ver reel completo"
       }
     ],
-    "course": "Taller de Análisis e Integración de Periodismo",
-    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/reel-desigualdad.mp4",
-    "image": "assets/reel-desigualdad.webp",
-    "alt": "Presentación en exteriores del reel Providencia–Recoleta, confirmada por Luciano Salazar."
+    "source_drive": "https://drive.google.com/file/d/1XI_ux6m1XeWHsTG9YqKCsZShhskLfrj7/view",
+    "category": "Audiovisual",
+    "rights_confirmed": "Confirmación expresa de Luciano: permisos de difusión de las nueve piezas, incluidos equipo y terceros; 17-10-2026."
   },
   {
     "id": "integracion-desigualdad",
@@ -323,14 +419,20 @@
     "credits": "Presentación: Fernanda Marín. Cámara: Thomas Quintanilla, Katherine Matamala, Luciano Salazar y Natalia Chocano, según crédito en pantalla.",
     "role": "Cámara, junto al equipo acreditado. Las presentaciones de Fernanda Marín no se atribuyen a Luciano.",
     "synopsis": "Primer reportaje de Integración sobre Providencia y Recoleta, recursos municipales y condiciones de vida. Se conserva como muestra de un trabajo colectivo con participación en cámara acreditada.",
+    "evidence": "Crédito final visible en torno a 04:56: «Camarógrafos: Thomas Quintanilla, Katherine Matamala, Luciano Salazar y Natalia Chocano».",
     "duration": 299.583,
-    "front_camera_verified": false,
-    "preview_url": "https://drive.google.com/file/d/1AWzSD2By-jsZvyTiooBwvL17aHBCmv2a/preview",
-    "public_note": "La difusión de este reportaje completo aún requiere confirmar los permisos de Fernanda Marín (presentación), Thomas Quintanilla, Katherine Matamala y Natalia Chocano (cámara), y del material de terceros utilizado. Luciano figura en cámara junto al equipo; no presenta esta pieza. La confirmación de las nueve piezas no incluyó este reportaje adicional."
+    "video": "assets/integracion-desigualdad.mp4",
+    "image": "assets/integracion-desigualdad.webp",
+    "alt": "Gráfico original del reportaje sobre recursos municipales de Providencia y Recoleta.",
+    "approved": false,
+    "context": "Agosto de 2026 · Primer Trabajo de integración periodística. Copia de entrega recuperada de Drive.",
+    "source_url": null,
+    "front_camera_verified": false
   },
   {
     "id": "tarot-2025",
     "title": "Tarot: Aravena y Salazar",
+    "title_source": "Identificador editorial del archivo original «tarot aravena y salazar.mp4». No se equipara al reportaje Brujería urbana de Integración 2026.",
     "format": "Audiovisual",
     "topic": "Astrología y vida urbana",
     "year": 2025,
@@ -338,17 +440,23 @@
     "participation": "Colectiva",
     "credits": "Aravena y Salazar, según nombre del archivo. Rótulo en pantalla: Luciano Salazar, periodista. Falta completar el nombre de Aravena y el reparto de tareas.",
     "role": "Presentación ante cámara identificada con rótulo «Luciano Salazar» en torno a 00:05.",
-    "synopsis": "Una nota desde un café temático de astrología, con una presentación identificada de Luciano Salazar, testimonios y planos de la actividad de tarot. Complementa la selección principal de 2026.",
+    "evidence": "Rótulo visible a 00:05. Metadatos del archivo: creación 29/10/2025; Drive: modificado 30/10/2025. La fecha impide presentarlo como Integración 2026.",
     "duration": 125.667,
+    "video": "assets/tarot-2025.mp4",
+    "image": "assets/tarot-2025.webp",
+    "alt": "Luciano Salazar identificado por rótulo ante la entrada de un café temático de astrología.",
+    "approved": true,
     "front_camera_verified": true,
+    "context": "Archivo de 2025 · Obra colectiva. Copia completa recuperada de Drive; no es un reportaje de Integración 2026.",
+    "synopsis": "Una nota desde un café temático de astrología, con una presentación identificada de Luciano Salazar, testimonios y planos de la actividad de tarot. Complementa la selección principal de 2026.",
+    "tech": "Copia web H.264 · audio original · duración completa",
+    "source_url": null,
     "chapters": [
       {
         "time": 5,
         "label": "Presentación identificada de Luciano"
       }
     ],
-    "video": "https://github.com/LucianoSalazar/luciano-audiovisual/releases/download/seleccion-audiovisual-2026/tarot-2025.mp4",
-    "image": "assets/tarot-2025.webp",
-    "alt": "Luciano Salazar identificado por rótulo ante la entrada de un café temático de astrología."
+    "rights_confirmed": "Confirmación expresa de Luciano: permisos de difusión de las nueve piezas, incluidos equipo y terceros; 17-10-2026."
   }
 ]
