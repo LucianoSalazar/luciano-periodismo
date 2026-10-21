@@ -330,6 +330,6 @@ to{transform:none;opacity:1}}}
 .editorial-controls button:hover:not(:disabled){background:#bd945b;color:#071e2d}
 .editorial-controls button:disabled{opacity:.3;cursor:default}
 .editorial-video-collection{min-width:0}
-.official-lupa .editorial-track h3{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+.official-lupa .editorial-track h3{padding-right:34px;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
 .official-lupa .editorial-track .selected-copy>p:not(.selected-category),.editorial-track .official-video-card>p,.editorial-track .official-feature-copy>p{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 @media(max-width:850px){.official-reference .editorial-track{grid-auto-columns:100%;gap:20px}.editorial-controls{justify-content:space-between}.editorial-controls>span{margin-right:auto}}
