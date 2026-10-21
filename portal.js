@@ -34,3 +34,8 @@ document.querySelectorAll('.ine-layout').forEach(widget=>{
 document.querySelectorAll('.audio-card audio').forEach(audio=>audio.addEventListener('play',()=>{
  document.querySelectorAll('.audio-card audio').forEach(other=>{if(other!==audio)other.pause()});
 }));
+
+// Reveal an archive only when its destination is requested, preserving native details behavior.
+function revealEditorialTarget(hash){if(!hash||!hash.startsWith('#'))return;const target=document.getElementById(hash.slice(1));const detail=target?.closest('details');if(detail)detail.open=true;}
+document.querySelectorAll('a[href^="#"]').forEach(link=>link.addEventListener('click',()=>revealEditorialTarget(link.hash)));
+revealEditorialTarget(location.hash);
