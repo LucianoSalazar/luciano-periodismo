@@ -136,9 +136,10 @@
 }
 
 @media (max-width: 480px) {
-  .portfolio-masthead nav { width: 100%; flex-wrap: wrap; gap: 0 15px; }
-  .portfolio-masthead nav a { font-size: 14px; }
+  .portfolio-masthead nav { width: 100%; flex-wrap: wrap; gap: 0 10px; }
+  .portfolio-masthead nav a { font-size: 13px; }
   .portfolio-masthead .portfolio-nav-contact { border: 0; padding: 0; }
+  .portfolio-nav-contact span { display: none; }
   .portfolio-kicker { margin-bottom: 15px; }
   .portfolio-lead { margin-top: 18px; }
   .portfolio-actions { margin-top: 21px; }
