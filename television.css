@@ -1,5 +1,5 @@
 .television {
-  background: var(--deep);
+  background: var(--petrol);
   color: var(--paper);
   padding: clamp(44px, 7vw, 104px) var(--gutter);
 }
