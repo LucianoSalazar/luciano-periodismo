@@ -1,0 +1,98 @@
+.portfolio-home {
+  --art-paper: #ece1ce;
+  --art-gold: #dfc69a;
+  --art-grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Cpath fill='%23fff' filter='url(%23g)' opacity='.23' d='M0 0h180v180H0z'/%3E%3C/svg%3E");
+}
+
+.portfolio-home .official-selected {
+  --burgundy: #581b35;
+  --burgundy-line: #dbb9c5;
+  --burgundy-accent: #8f5265;
+  background-color: var(--burgundy);
+  background-image: var(--art-grain);
+  background-blend-mode: soft-light;
+}
+
+.portfolio-home .official-selected .official-section-heading { grid-template-columns: minmax(0, .85fr) minmax(0, 1.15fr); gap: 24px clamp(30px, 5vw, 82px); }
+.reports-heading-copy { align-self: center; border-block: 1px solid #d3a4b5; padding-block: clamp(23px, 3.1vw, 48px); }
+.portfolio-home .official-selected .official-section-heading h2 { max-width: 100%; text-wrap: wrap; }
+.portfolio-home .official-selected .portfolio-section-links a { color: #f8e6d9; text-underline-offset: 4px; }
+.portfolio-home .official-selected .proto-photo { aspect-ratio: 1.5; }
+.portfolio-home .official-selected .official-feature { background-color: #f7f0e5; }
+.portfolio-home .official-selected .official-feature-copy { border-bottom: 1px solid #d4bdc3; }
+.portfolio-home .official-selected .proto-arrow { border-color: var(--art-gold); }
+
+.art-tableau { color: var(--art-paper); min-width: 0; margin: 0; }
+.art-tableau-media { position: relative; isolation: isolate; min-width: 0; }
+.art-tableau figcaption, .art-audiovisual figcaption { font-size: 12px; letter-spacing: .025em; margin-top: 8px; }
+.art-tableau img { display: block; height: 100%; width: 100%; object-fit: cover; }
+.art-engraving { display: block; width: 100%; height: auto; aspect-ratio: 1; pointer-events: none; }
+.art-tableau .art-engraving, .art-investigation .art-engraving, .art-author .art-engraving, .art-audiovisual .art-engraving { position: absolute; }
+.art-reports .art-tableau-media { aspect-ratio: 1.94; }
+.art-reports .art-photo-main, .art-reports .art-photo-layer { position: absolute; }
+.art-reports .art-photo-main { inset: 0 auto 10% 2%; width: 74%; height: 91%; object-position: 50% 47%; border: 6px solid #f0e3ce; transform: rotate(-3deg); }
+.art-reports .art-photo-layer { inset: 31% 2% auto auto; width: 65%; height: 63%; object-position: 65% center; border: 5px solid #c89aa8; transform: rotate(5deg); }
+.art-reports .art-engraving { z-index: 1; right: 2%; bottom: 3%; width: 24%; color: #633448; background: #efe1c8; padding: 5%; transform: rotate(8deg); box-shadow: 0 4px 14px #21121a40; }
+.art-reports figcaption { text-align: right; }
+
+.portfolio-home .official-lupa { background-color: #202a40; background-image: var(--art-grain); background-blend-mode: soft-light; }
+.portfolio-home .lupa-cover { padding-block: clamp(40px, 6vw, 90px); }
+.portfolio-home .lupa-cover h2 { color: #f3e8d8; }
+.portfolio-home .lupa-cover h2 em { color: var(--art-gold); }
+.art-investigation { isolation: isolate; aspect-ratio: 1.95; }
+.art-investigation::before { content: ''; position: absolute; inset: 12% 7% 7% 0; z-index: -1; transform: rotate(4deg); background: repeating-linear-gradient(transparent 0 17px, #60434d36 18px 19px), #e5d8be; border: 1px solid #f5e7d0; }
+.art-investigation .investigation-print-main { inset: 2% auto auto 4%; height: 83%; width: 61%; }
+.art-investigation .investigation-print-detail { inset: auto 7% 2% auto; height: 68%; width: 45%; }
+.art-investigation .art-engraving { bottom: -2%; left: 1%; width: 24%; padding: 4%; color: #273650; background: #e5d8be; transform: rotate(-9deg); }
+
+.portfolio-home .selected-interviews {
+  background-color: #eadfcc;
+  background-image: var(--art-grain);
+  background-blend-mode: multiply;
+  padding-block: clamp(35px, 5.5vw, 75px);
+}
+.portfolio-home .selected-interviews .official-section-heading { display: grid; grid-template-columns: minmax(0, .85fr) minmax(0, 1.15fr); gap: 25px clamp(30px, 6vw, 87px); align-items: center; padding: 0; margin-bottom: clamp(25px, 4vw, 54px); min-height: 0; }
+.interview-heading-copy { min-width: 0; }
+.portfolio-home .selected-interviews .interview-heading-copy h2 { margin-bottom: 15px; }
+.interview-heading-copy > p:last-child { color: #3a3436; margin: 0; max-width: 48ch; }
+.art-interview { color: #53454b; }
+.art-interview .art-tableau-media { padding: 0 7% 1% 11%; }
+.art-interview .art-photo-main { height: auto; aspect-ratio: 2; border: 1px solid #9b8274; clip-path: polygon(1% 0, 99% 2%, 100% 96%, 0 100%); }
+.art-interview .art-tableau-media::before { content: '“'; position: absolute; z-index: 1; top: -.19em; left: 0; color: #713f52; font: 600 clamp(90px, 14vw, 214px)/1 var(--display); }
+.art-interview .art-engraving { color: #784958; right: 0; bottom: 0; width: 23%; background: #f0e5d2; padding: 4%; transform: rotate(8deg); border: 1px solid #a78e82; }
+.art-interview figcaption { margin-left: 11%; }
+
+.portfolio-home .portfolio-screen { background: #2d282d; }
+.portfolio-screen-media::before { content: ''; display: block; height: 7px; margin-bottom: 8px; background: repeating-linear-gradient(90deg, #9d8791 0 12px, transparent 12px 24px); }
+.portfolio-screen-media > p { margin-top: 8px; border-top: 1px solid #766570; }
+
+.art-audiovisual { color: #3f4c5a; width: min(100%, 330px); margin: 24px 0 0; }
+.art-audiovisual > div { position: relative; isolation: isolate; margin-right: 12%; padding: 10px; background: #2a3445; }
+.art-audiovisual .art-contact-frame { display: block; width: 100%; height: auto; aspect-ratio: 2; object-fit: cover; object-position: 50% 32%; filter: saturate(.62); }
+.art-audiovisual .art-engraving { width: 30%; right: -15%; bottom: -4%; padding: 5%; color: #29384c; background: #ecdfcc; transform: rotate(8deg); border: 1px solid #9e8a80; }
+
+.television-intro { display: grid; grid-template-columns: minmax(0, .9fr) minmax(0, 1.1fr); gap: 25px clamp(30px, 5vw, 74px); align-items: center; margin-bottom: clamp(25px, 4vw, 55px); }
+.television-intro .television-heading { margin: 0; }
+.art-television .art-tableau-media { padding: 0 6% 3% 0; }
+.art-television .art-photo-main { height: auto; aspect-ratio: 1.8; object-position: 51% 45%; border: 1px solid #b6a28a; clip-path: polygon(0 0, 98% 0, 100% 94%, 2% 100%); }
+.art-television .art-engraving { width: 22%; right: 1%; bottom: 0; padding: 3%; color: var(--art-gold); background: #242d3b; transform: rotate(-6deg); border: 1px solid #b6a28a; }
+
+.art-author { position: relative; width: min(60%, 265px); margin: 0 0 32px; }
+.art-author picture { padding: 6%; margin: 0; background: #eadcc5; transform: rotate(-3deg); }
+.art-author picture img { width: 100%; filter: saturate(.68); }
+.art-author .art-engraving { right: -22%; bottom: 3%; width: 43%; padding: 6%; color: #783f55; background: #eee1c9; border: 1px solid #beaa99; transform: rotate(9deg); }
+.portfolio-timeline { border-left: 1px solid #b7929f; padding-left: clamp(14px, 3vw, 36px); }
+
+@media (max-width: 920px) {
+  .art-audiovisual { width: min(100%, 275px); }
+}
+
+@media (max-width: 780px) {
+  .portfolio-home .official-selected .official-section-heading,
+  .portfolio-home .selected-interviews .official-section-heading,
+  .television-intro { grid-template-columns: 1fr; }
+  .reports-heading-copy { padding-block: 18px; }
+  .art-reports .art-tableau-media { width: min(100%, 540px); }
+  .art-interview .art-tableau-media, .art-television .art-tableau-media { width: min(100%, 540px); }
+  .art-author { width: min(47%, 200px); }
+}
