@@ -16,6 +16,8 @@
 .gallery-camera { width: clamp(46px, 9vw, 110px); flex: none; rotate: -8deg; }
 .gallery-emoji, .toolbox-emoji { font: normal .66em/1 'Segoe UI Emoji', 'Apple Color Emoji', sans-serif; }
 .gallery-emoji { display: inline-block; vertical-align: .12em; }
+.gallery-emoji.section-title-mark { display: inline; font-size: .52em; }
+#showreel-titulo .section-title-mark { font-size: .4em; }
 .gallery-prints, .toolbox-list { padding: 0; margin: 0; list-style: none; }
 .gallery-prints { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: clamp(13px, 2.2vw, 31px); align-items: start; }
 .gallery-print { position: relative; margin: 0; padding: clamp(8px, 1.15vw, 16px); background: var(--linen); border: 1px solid var(--line); box-shadow: 0 5px 12px color-mix(in srgb, var(--ink) 9%, transparent); rotate: -2deg; }
@@ -61,4 +63,8 @@
   .manifesto-book { width: 45px; margin: 0; }
   .manifesto-pen { display: none; }
   .toolbox-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+@media (max-width: 520px) {
+  .portfolio-home .lupa-cover #lupa-archivo { max-width: none; }
 }
