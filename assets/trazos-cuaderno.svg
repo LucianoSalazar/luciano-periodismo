@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="destellos" viewBox="0 0 100 87">
+    <g fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M51 10c1 16 7 22 22 26-16 2-23 10-27 25-2-16-9-23-25-28 17-1 24-7 30-23Z M82 4c1 7 3 10 10 12-7 1-10 4-12 10-1-6-4-9-11-11 7-1 10-4 13-11Z M18 56c0 7 3 12 10 14-8 1-12 5-14 12-1-8-5-11-12-13 8-1 13-6 16-13Z"/>
+      <path d="m74 56 6 3m-4 6 3 6M10 23l5 2m-4-8 4 4"/>
+    </g>
+  </symbol>
+  <symbol id="flecha" viewBox="0 0 125 56">
+    <g fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M4 45c15-14 33-16 48-12 11 4 28 4 42-8 6-5 11-11 16-18m-21 5 24-7-5 22"/>
+      <path d="M14 49 6 51m60-12c11 0 21-4 28-11"/>
+    </g>
+  </symbol>
+  <symbol id="corazon" viewBox="0 0 96 76">
+    <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M46 66C41 61 11 44 10 25 8 8 29 3 43 20 52-1 78 4 81 20c4 19-16 37-35 46Z M17 26c0-9 5-13 11-13m47 41 7-4m-2 12 8-1m-7 10 8 2"/>
+    </g>
+  </symbol>
+  <symbol id="encuadre" viewBox="0 0 88 72">
+    <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M5 23V6l17-1m44 0 17 1 1 17M5 48l1 17 16 1m44 0 16-1 1-16M34 36h20m-10-9v19"/>
+      <circle cx="66" cy="24" r="4"/>
+    </g>
+  </symbol>
+</svg>

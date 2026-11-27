@@ -1,0 +1,86 @@
+.cuaderno-note {
+  display: flex;
+  align-items: baseline;
+  gap: .55em;
+  margin: 0;
+  color: var(--accent);
+  font: italic 400 clamp(18px, 2vw, 28px)/1.23 var(--display);
+  letter-spacing: -.018em;
+  text-wrap: pretty;
+}
+
+.cuaderno-emoji { display: inline-block; flex: none; font: normal .68em/1 'Segoe UI Emoji', 'Apple Color Emoji', sans-serif; filter: saturate(.58); }
+.cuaderno-stroke { display: block; width: 100%; height: auto; aspect-ratio: 1; pointer-events: none; color: var(--accent); }
+.cuaderno-hero-note { margin-top: 20px; max-width: 29ch; }
+.cuaderno-hero-note > span:last-child { text-decoration: underline; text-decoration-color: var(--line); text-decoration-thickness: 1px; text-underline-offset: .23em; }
+.portfolio-portrait-noted { position: relative; }
+.portfolio-portrait-noted::before { content: ''; position: absolute; z-index: 1; width: 25%; height: 23px; inset: -11px auto auto 37%; background: var(--sand); opacity: .9; rotate: -5deg; clip-path: polygon(0 6%, 100% 0, 96% 22%, 99% 38%, 97% 61%, 100% 100%, 0 92%, 4% 77%, 1% 52%, 4% 31%); }
+.portfolio-portrait-noted .cuaderno-spark { position: absolute; z-index: 1; width: clamp(44px, 8vw, 94px); right: -2%; bottom: 10%; color: var(--paper); filter: drop-shadow(0 1px 2px var(--charcoal)); }
+
+.art-reports .cuaderno-report-paper { position: absolute; inset: -4% 0 auto auto; width: 48%; height: 68%; border: 5px solid var(--paper); rotate: 8deg; }
+.cuaderno-report-note { display: flex; align-items: center; justify-content: space-between; gap: 18px; margin-top: clamp(19px, 4vw, 42px); padding-block: 8px; }
+.cuaderno-report-note .cuaderno-note { color: var(--report-ink); }
+.cuaderno-report-note .cuaderno-stroke { width: clamp(46px, 8vw, 90px); aspect-ratio: 125 / 56; margin-right: 3%; }
+
+.cuaderno-research { margin: 0; min-width: 0; }
+.cuaderno-research figcaption, .cuaderno-film-print figcaption, .cuaderno-author figcaption { color: var(--art-caption); font-size: 12px; margin-top: 8px; }
+.cuaderno-research figcaption { margin-inline: 4% 2%; }
+.art-investigation .cuaderno-archive-print { inset: -5% 5% auto auto; width: 44%; height: 54%; rotate: 8deg; box-shadow: none; }
+.cuaderno-research-note { padding-block: 6px; color: #3f516c; }
+
+.cuaderno-listening { margin: 0 0 clamp(20px, 3vw, 42px); padding-left: 16px; border-left: 1px solid var(--story-line); color: var(--story-ink); }
+
+.cuaderno-film-print { width: min(100%, 234px); margin: 20px 0 0; }
+.cuaderno-film-print img { display: block; width: 100%; aspect-ratio: 2.6; height: auto; object-fit: cover; border: 4px solid var(--paper); rotate: -3deg; }
+.cuaderno-film-media { position: relative; }
+.cuaderno-film-media .cuaderno-viewfinder { width: clamp(30px, 8vw, 72px); right: -9px; top: -22px; position: absolute; color: var(--accent); pointer-events: none; }
+.art-audiovisual .cuaderno-field-print { position: absolute; inset: -9% auto auto -4%; width: 41%; height: 66%; object-fit: cover; border: 4px solid var(--paper); rotate: -11deg; }
+.cuaderno-field-note { margin-top: 14px; font-size: 18px; }
+
+.cuaderno-tv-divider { display: flex; align-items: center; justify-content: center; gap: 12px; color: #354f61; }
+.cuaderno-tv-divider::before, .cuaderno-tv-divider::after { content: ''; height: 1px; flex: 1; background: var(--line); }
+.cuaderno-tv-divider .cuaderno-stroke { width: 29px; color: inherit; }
+.cuaderno-tv-divider .cuaderno-emoji { font-size: .9rem; }
+.cuaderno-tv-divider + .television-project { border-top: 0; }
+
+.cuaderno-author .cuaderno-diary-print { position: absolute; z-index: 0; width: 78%; height: 60%; object-fit: cover; top: 15%; left: 60%; border: 5px solid var(--paper); rotate: 10deg; }
+.cuaderno-author picture { position: relative; z-index: 1; }
+.cuaderno-author .art-engraving { z-index: 2; bottom: max(36px, 16%); }
+.cuaderno-author figcaption { width: max-content; max-width: min(70vw, 265px); }
+.cuaderno-author-note { margin: 18px 0 8px; }
+.cuaderno-contact-note { display: flex; align-items: center; max-width: 40ch; gap: 14px; color: var(--accent); font: italic 400 clamp(21px, 2vw, 30px)/1.25 var(--display); }
+.cuaderno-contact-note .cuaderno-stroke { width: 37px; flex: none; rotate: -6deg; }
+
+@media (max-width: 780px) {
+  .cuaderno-hero-note { margin-top: 14px; }
+  .cuaderno-research figcaption { width: min(91%, 500px); margin-inline: auto; }
+  .cuaderno-film-media .cuaderno-viewfinder { top: -13px; right: -5px; }
+  .cuaderno-film-print { margin: 12px 0 8px; }
+}
+
+@media (prefers-reduced-motion: no-preference) and (hover: hover) and (pointer: fine) {
+  :is(.cuaderno-stroke, .art-photo-main, .investigation-print-main, .cuaderno-diary-print, .cuaderno-field-print, .cuaderno-film-print img) { transition: rotate .32s ease, translate .32s ease; }
+  .portfolio-portrait-noted:hover .cuaderno-spark, .cuaderno-contact-note:hover .cuaderno-stroke { rotate: 8deg; translate: 0 -3px; }
+  :is(.art-reports, .art-interview, .art-television):hover .art-photo-main { rotate: -1.5deg; translate: 0 -3px; }
+  .cuaderno-research:hover .investigation-print-main { rotate: -1.5deg; }
+  .cuaderno-author:hover .cuaderno-diary-print { rotate: 13deg; }
+  .art-audiovisual:hover .cuaderno-field-print { rotate: -15deg; }
+  .cuaderno-film-print:hover img { rotate: 0deg; }
+  .cuaderno-report-note:hover .cuaderno-stroke { translate: 5px 0; }
+  .cuaderno-hero-note > span:last-child { transition: text-decoration-color .24s ease; }
+  .cuaderno-hero-note:hover > span:last-child { text-decoration-color: var(--accent); }
+}
+
+@supports (animation-timeline: view()) {
+  @media (prefers-reduced-motion: no-preference) and (hover: hover) and (pointer: fine) {
+    :is(.cuaderno-report-note .cuaderno-note, .cuaderno-author-note, .cuaderno-listening) {
+      animation: cuaderno-note-enter linear both;
+      animation-timeline: view();
+      animation-range: entry 5% entry 95%;
+    }
+    @keyframes cuaderno-note-enter {
+      from { translate: 0 6px; }
+      to { translate: 0; }
+    }
+  }
+}
