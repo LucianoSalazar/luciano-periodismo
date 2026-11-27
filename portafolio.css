@@ -23,9 +23,10 @@
 .portfolio-home .skip:focus { z-index: 20; }
 .portfolio-shell { width: min(100% - var(--gutter) * 2, 1272px); margin-inline: auto; }
 .portfolio-home :is(.portfolio-hero, .portfolio-about).portfolio-shell { margin-inline: auto; }
-.portfolio-home > .portfolio-header { max-width: none; margin: 0; padding: 0; border-bottom: 1px solid var(--line); text-align: left; }
+.portfolio-home > .portfolio-header { max-width: none; margin: 0; padding: 0; border-bottom: 1px solid var(--line); text-align: left; background: var(--vanilla); }
 .portfolio-masthead { min-height: 78px; display: flex; align-items: center; justify-content: space-between; gap: 28px; }
-.portfolio-brand { color: var(--ink); font: 600 clamp(21px, 2.2vw, 32px)/1.1 var(--display); letter-spacing: -.045em; }
+.portfolio-brand { display: inline-flex; align-items: center; gap: .36em; color: var(--ink); font: 600 clamp(21px, 2.2vw, 32px)/1.1 var(--display); letter-spacing: -.045em; }
+.portfolio-brand-spark { width: .84em; height: .74em; flex: none; color: var(--accent); }
 .portfolio-masthead nav { display: flex; align-items: center; gap: clamp(13px, 2vw, 35px); }
 .portfolio-masthead nav a { min-height: 44px; display: inline-flex; gap: 12px; align-items: center; color: var(--ink); white-space: nowrap; font-weight: 700; font-size: 15px; }
 .portfolio-masthead .portfolio-nav-contact { padding: 0 14px; border: 1px solid var(--line); }
